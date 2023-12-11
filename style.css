@@ -1,0 +1,21 @@
+
+.mou{
+    background-color: aqua;
+}
+
+.btn-hover{
+    background-color: green;
+}
+
+.custom-table-field{
+    margin-top: 10px;
+}
+
+.table-content{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(114,135,161,0.8995973389355743) 100%);
+}
+
+.service{
+    height: 500px;
+}
